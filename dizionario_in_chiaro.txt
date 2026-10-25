@@ -305,4 +305,5 @@ znat	sapere	znati	to know	wissen	Verbi
 zora	alba	zora	dawn	Morgendämmerung	Tempo
 zub	dente	zub	tooth	Zahn	Corpo Umano
 žut	giallo	žuto / žut	yellow	gelb	Colori
-zviyda	stella	zvijezda	star	Stern	Natura
+zvizda	stella	zvijezda	star	Stern	Natura
+piljuh  nibbio  zmaj  kite  Milan  Animali
