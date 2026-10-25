@@ -1,4 +1,3 @@
-Column1	Column2	Column3	Column4	Column5	Column6
 Na-našu	Italiano	Croato	Inglese	Tedesco	Categoria
 ajer	aria	zrak	air	Luft	Natura
 ali	ma	ali	but	aber	Grammatica
