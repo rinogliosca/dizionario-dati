@@ -1,0 +1,24 @@
+INFORMATIVA SULLA PRIVACY (PRIVACY POLICY)
+Applicazione: Dizionario Na-Našu
+
+La presente Informativa sulla Privacy descrive le modalità con cui l'applicazione gestisce e tutela i dati degli utenti. Questa applicazione è stata progettata con l'obiettivo primario di garantire la massima riservatezza e la protezione dei dati personali.
+
+1. RACCOLTA E UTILIZZO DEI DATI
+L'applicazione NON raccoglie, NON memorizza e NON trasmette a terzi alcuna informazione personale identificativa dell'utente (come nome, cognome, indirizzo email o numero di telefono), ad eccezione di quanto specificato nel punto successivo.
+
+2. VERIFICA DELLA LICENZA (ANDROID ID)
+Per usufruire della versione Premium, l'applicazione acquisisce l'identificativo univoco del dispositivo fornito dal sistema operativo Android (Android ID a 64 bit). 
+- Questo ID viene normalizzato e confrontato esclusivamente in modalità di sola lettura con una whitelist remota ospitata su GitHub per verificare lo stato dell'attivazione.
+- L'ID non viene associato ad altre informazioni personali, non viene utilizzato per attività di profilazione, tracciamento pubblicitario o analisi comportamentale.
+
+3. RICHIESTA DI SBLOCCO TRAMITE EMAIL
+Quando l'utente richiede manualmente lo sblocco inviando una email, i dati forniti nel corpo del messaggio (come il nome digitato opzionalmente dall'utente e l'identificativo del dispositivo) verranno utilizzati esclusivamente per l'inserimento manuale dell'utente nella whitelist dei dispositivi abilitati.
+
+4. SERVIZI DI TERZE PARTI E COLLEGAMENTI ESTERNI
+L'applicazione effettua connessioni di rete verso i server di GitHub al solo scopo di sincronizzare il database del dizionario e verificare lo stato della licenza in tempo reale. Non sono integrati SDK di tracciamento, strumenti di analytics o reti pubblicitarie di terze parti.
+
+5. DIRITTI DELL'UTENTE
+L'utente può richiedere in qualsiasi momento la rimozione del proprio identificativo dispositivo dalla whitelist remota contattando direttamente lo sviluppatore all'indirizzo email fornito all'interno dei crediti dell'applicazione.
+
+6. MODIFICHE ALLA PRESENTE PRIVACY POLICY
+Il presente documento può essere aggiornato periodicamente per riflettere eventuali modifiche normative o funzionali dell'applicazione. Si invita l'utente a consultare regolarmente questa sezione.

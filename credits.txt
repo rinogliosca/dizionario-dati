@@ -1,0 +1,16 @@
+
+Info & Crediti
+
+Dizionario Na-našuML (ML sta per multi lingue)
+Un progetto nato nel cuore di Acquaviva Collecroce per custodire la nostra lingua, il na-našu.
+Contributi e Ringraziamenti:
+• Ricerca Scientifica e Vocaboli:
+Un ringraziamento speciale ai miei grandi amici, il Prof. Walter Breu e il Prof. Giovanni Piccoli.
+Questa applicazione non sarebbe stata possibile senza il loro monumentale e fondamentale “Dizionario croato molisano di Acquaviva Collecroce” (2000), una guida insostituibile per la salvaguardia della nostra identità linguistica.
+• Interfaccia e Grafica:
+La cura estetica, le icone e la veste grafica di questa app sono state interamente realizzate da Matilde Gliosca, che con il suo talento ha dato colore e modernità alle parole della nostra tradizione.
+• Sviluppo Software:
+Curato con passione da Rino John Gliosca in Android Studio.
+
+Email: dizionario_nanasuml@altmail.kr
+
