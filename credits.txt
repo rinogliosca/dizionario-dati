@@ -12,5 +12,5 @@ La cura estetica, le icone e la veste grafica di questa app sono state interamen
 • Sviluppo Software:
 Curato con passione da Rino John Gliosca in Android Studio.
 
-Email: <a href="mailto:dizionario_nanasuml@altmail.kr">dizionario_nanasuml@altmail.kr</a>
+Email: dizionario_nanasuml@altmail.kr
 
