@@ -22,3 +22,19 @@ L'utente può richiedere in qualsiasi momento la rimozione del proprio identific
 
 6. MODIFICHE ALLA PRESENTE PRIVACY POLICY
 Il presente documento può essere aggiornato periodicamente per riflettere eventuali modifiche normative o funzionali dell'applicazione. Si invita l'utente a consultare regolarmente questa sezione.
+
+7. STATISTICHE DI UTILIZZO (Firebase Analytics)
+
+L'app utilizza Firebase Analytics, un servizio di Google, per ottenere statistiche anonime e aggregate sull'uso del dizionario: ad esempio quante persone usano l'app, da quali paesi, in quale lingua del telefono e con quale versione dell'app.
+
+Dati raccolti: un identificativo casuale dell'installazione dell'app, il paese e la lingua del dispositivo, il modello del dispositivo, la versione di Android e dell'app, e informazioni sull'uso dell'app (ad esempio apertura e durata delle sessioni). Non raccogliamo il contenuto delle tue ricerche. [Se in futuro registrerai le parole non trovate, modifica questa frase.]
+
+Finalità: capire quanto è usato il dizionario e migliorarlo. I dati non vengono usati per pubblicità e non vengono venduti.
+
+Fornitore: i dati sono trattati da Google Ireland Limited e possono essere trasferiti a Google LLC negli Stati Uniti, con le garanzie previste dalla normativa europea. Maggiori informazioni: https://firebase.google.com/support/privacy
+
+Conservazione: i dati di dettaglio sono conservati per il periodo impostato nella console di Firebase [indica il periodo scelto, ad esempio 2 mesi o 14 mesi], poi sono cancellati o resi aggregati.
+
+Titolare del trattamento: [Nome e cognome], [indirizzo email di contatto].
+
+I tuoi diritti: puoi chiedere l'accesso ai dati, la correzione, la cancellazione o l'opposizione scrivendo a [indirizzo email]. Hai inoltre il diritto di presentare reclamo al Garante per la protezione dei dati personali (www.garanteprivacy.it).
